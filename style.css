@@ -1,0 +1,25 @@
+body{
+  background-image: url("https://us.123rf.com/450wm/sidalena/sidalena1807/sidalena180700002/104771145-tunnel-semicircular-arch-with-floor-leaving-into-the-distance-black-and-white-geometric-pattern.jpg");
+}
+ h1 {
+  text-decoration-line: underline;
+}
+p1 {
+    border-style: inset;
+}
+
+title
+{
+  padding : 25px;
+}
+.title {
+	color: red;
+}
+
+p1{
+  color: red;
+}
+
+p2{
+  color: red;
+}
